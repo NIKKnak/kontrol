@@ -3,7 +3,7 @@ Clear();
 
 string[] array;
 WriteLine("Введите символы или значения через пробел");
-string stroka = ReadLine();
+string stroka = ReadLine()!;
 array = stroka.Split(' ');
 var result = new string[array.Length];
 var realSize = 0;
