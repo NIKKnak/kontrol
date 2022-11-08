@@ -1,0 +1,15 @@
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\bin\Debug\net6.0\kontrol.exe
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\bin\Debug\net6.0\kontrol.deps.json
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\bin\Debug\net6.0\kontrol.runtimeconfig.json
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\bin\Debug\net6.0\kontrol.dll
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\bin\Debug\net6.0\kontrol.pdb
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\obj\Debug\net6.0\kontrol.csproj.AssemblyReference.cache
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\obj\Debug\net6.0\kontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\obj\Debug\net6.0\kontrol.AssemblyInfoInputs.cache
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\obj\Debug\net6.0\kontrol.AssemblyInfo.cs
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\obj\Debug\net6.0\kontrol.csproj.CoreCompileInputs.cache
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\obj\Debug\net6.0\kontrol.dll
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\obj\Debug\net6.0\refint\kontrol.dll
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\obj\Debug\net6.0\kontrol.pdb
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\obj\Debug\net6.0\kontrol.genruntimeconfig.cache
+C:\Users\NIKnak\Desktop\Введение в программирование\kontrol\obj\Debug\net6.0\ref\kontrol.dll
